@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# Next.js build output (production and dev preview)
+.next/
+.next-dev/
+out/
+
+# misc
+.DS_Store
+*.tsbuildinfo
+*.log
+
+# env and deploy config
+.env*
+.vercel
